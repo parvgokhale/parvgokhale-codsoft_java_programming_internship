@@ -50,7 +50,7 @@ class Game {
 
 }
 
-public class Guess_Game {
+public class Number_Game {
 
     public static void main(String[] args) {
 
